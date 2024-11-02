@@ -5,7 +5,7 @@ discordbotファイルアップローダー
 discordbotで投げたファイルをローカルに保存する
 
 
-https://github.com/user-attachments/assets/a51fa7f5-2d88-4a8a-9516-a1dde734b341
+https://github.com/user-attachments/assets/3bc00493-a34d-43e9-a939-67e0450b3438
 
 ↑NAS（Sambaで構築）と連携もできます。
 
