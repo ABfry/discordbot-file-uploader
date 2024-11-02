@@ -27,19 +27,18 @@ bot, Send Messages, View Channels, Attach FilesをONにする
 
 ### 2. upload.pyを動かす
 
-```python
+```bash
 git clone https://github.com/ABfry/discordbot-file-uploader.git
 ```
 
-```python
-.env.example
-```
 
-を参考に .envを作成し、先程作成したトークンと保存先にしたいディレクトリのパスを入力する
+.env.example を参考に 
+
+.envを作成し、先程作成したトークンと保存先にしたいディレクトリのパスを入力する
 
 ![スクリーンショット 2024-11-02 16 01 31](https://github.com/user-attachments/assets/7f60839e-7f06-4f94-a27d-48e3dc672dd2)
 
-```python
+```bash
 docker-compose up
 ```
 
